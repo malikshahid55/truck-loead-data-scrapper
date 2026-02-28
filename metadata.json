@@ -1,0 +1,7 @@
+{
+  "name": "TruckFlow Dispatch",
+  "description": "A professional truck dispatching platform connecting shippers with carriers for efficient load management and logistics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
